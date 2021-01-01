@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://admin:admin@aip.g1rez.mongodb.net/IOU?retryWrites=true&w=majority",
+	"jwtSecret": "AIP-05"
+}

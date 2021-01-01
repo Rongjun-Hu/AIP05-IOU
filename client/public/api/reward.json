@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "data": {
+        "reward": [
+            {
+                "_id": 500001,
+                "rewardName": "chocolate"
+            },
+            {
+                "_id": 500002,
+                "rewardName": "coffee"
+            },
+            {
+                "_id": 500003,
+                "rewardName": "mint"
+            },
+            {
+                "_id": 500004,
+                "rewardName": "pizza"
+            },
+            {
+                "_id": 500005,
+                "rewardName": "hotpot"
+            }
+        ]
+    }
+
+}
